@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**NaufalFaisal707/naufalfaisal707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalFaisal707&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalFaisal707&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaufalFaisal707&theme=radical)
+
+<!-- GitHub Trophy -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NaufalFaisal707&theme=radical)
+
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaufalFaisal707&theme=redical)
