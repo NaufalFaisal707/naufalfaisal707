@@ -26,7 +26,7 @@
 ## Links and Images
 
 [Link text](https://github.com)
-![Alt text for image](image.jpg)
+<!-- ![Alt text for image](image.jpg) -->
 
 ## Code
 
