@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!-- Top Languages -->
-![Top Languages stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalFaisal707&layout=compact&theme=transparent)
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalFaisal707&layout=compact&theme=transparent)
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalFaisal707&show_icons=true&theme=transparent)
