@@ -2,6 +2,6 @@ Halo, perkenalkan saya **Naufal Faisal**, saya adalah seorang Fullstack Web Deve
 
 Saya lahir tahun 2005 di Bandung, Indonesia. Saya pertama kali mempelajari dasar pemograman web dari beberapa video tutorial.
 
-Berikut adalah daftar framework favorit yang sering saya gunakan:
+Berikut daftar stack yang saya gunakan:
 
-[React](https://react.dev/), [Remix](https://remix.run/), [TailwindCSS](https://tailwindcss.com/), [Shadcn/UI](https://ui.shadcn.com/) dan [Prisma](https://www.prisma.io/)
+[React](https://react.dev/), [Remix](https://remix.run/), [TailwindCSS](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/) dan [Prisma](https://www.prisma.io/)
