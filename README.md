@@ -1,14 +1,2 @@
-<!-- ### Hi there 👋 -->
-
-<!-- Top Languages -->
-![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalFaisal707&layout=compact&theme=transparent)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalFaisal707&show_icons=true&theme=transparent)
-
-
-<!-- GitHub Streak -->
-<!-- ![GitHub Streak stats-Dark](https://github-readme-streak-stats.herokuapp.com/?user=NaufalFaisal707&theme=transparent) -->
-
-<!-- GitHub Trophy -->
-<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NaufalFaisal707&theme=transparent) -->
+<!-- My Stack -->
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=react%2Creact%2C61dbfb%3Bremix%2Cremix%2Cffffff%3Btypescript%2Ctypescript%2C3178c6%3Bjavascript%2Cjavascript%2Cf0db4f%3Bprisma%2Cprisma%2Cffffff%3Bexpress%2Cexpress%2Cffffff%3Bsocket.io%2Csocket.io%2Cffffff%3B&line2=tailwind+css%2Ctailwind%2C38bdf8%3Bshadcnui%2Cshadcnui%2Cffffff%3B)
