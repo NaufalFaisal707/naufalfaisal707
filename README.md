@@ -1,4 +1,5 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=635343861128101917)
+<!-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=635343861128101917) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/635343861128101917)](https://discord.com/users/635343861128101917)
 
 ---
 
