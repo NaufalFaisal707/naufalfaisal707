@@ -1,4 +1,4 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=3401)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=635343861128101917)
 
 ---
 
